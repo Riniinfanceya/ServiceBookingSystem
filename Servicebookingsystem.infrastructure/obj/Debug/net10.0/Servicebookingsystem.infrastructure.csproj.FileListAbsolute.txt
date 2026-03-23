@@ -1,0 +1,17 @@
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\bin\Debug\net10.0\Servicebookingsystem.infrastructure.deps.json
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\bin\Debug\net10.0\Servicebookingsystem.infrastructure.runtimeconfig.json
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\bin\Debug\net10.0\Servicebookingsystem.infrastructure.dll
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\bin\Debug\net10.0\Servicebookingsystem.infrastructure.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\bin\Debug\net10.0\Servicebookingsystem.core.dll
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\bin\Debug\net10.0\Servicebookingsystem.core.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.csproj.AssemblyReference.cache
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.AssemblyInfoInputs.cache
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.AssemblyInfo.cs
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.csproj.CoreCompileInputs.cache
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Serviceb.DEFF8DD8.Up2Date
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.dll
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\refint\Servicebookingsystem.infrastructure.dll
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\Servicebookingsystem.infrastructure.genruntimeconfig.cache
+D:\ServiceBookingSystem\Servicebookingsystem.infrastructure\obj\Debug\net10.0\ref\Servicebookingsystem.infrastructure.dll

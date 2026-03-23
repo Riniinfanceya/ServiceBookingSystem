@@ -1,0 +1,16 @@
+<h2>Book Appointment</h2>
+<form (ngSubmit)="bookAppointment()">
+  <label>Service ID:</label>
+  <input [(ngModel)]="serviceId" name="serviceId" />
+
+  <label>Staff ID:</label>
+  <input [(ngModel)]="staffId" name="staffId" />
+
+  <label>Start Time:</label>
+  <input [(ngModel)]="startTime" name="startTime" type="datetime-local" />
+
+  <label>End Time:</label>
+  <input [(ngModel)]="endTime" name="endTime" type="datetime-local" />
+
+  <button type="submit">Book</button>
+</form>

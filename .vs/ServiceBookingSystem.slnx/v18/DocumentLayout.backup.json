@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ServiceBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39CDB129-1CE4-43F6-8C9B-E5849CA0BC82}|ServiceBookingSystem.Tests\\ServiceBookingSystem.Tests.csproj|d:\\servicebookingsystem\\servicebookingsystem.tests\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CDB129-1CE4-43F6-8C9B-E5849CA0BC82}|ServiceBookingSystem.Tests\\ServiceBookingSystem.Tests.csproj|solutionrelative:servicebookingsystem.tests\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CDB129-1CE4-43F6-8C9B-E5849CA0BC82}|ServiceBookingSystem.Tests\\ServiceBookingSystem.Tests.csproj|d:\\servicebookingsystem\\servicebookingsystem.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CDB129-1CE4-43F6-8C9B-E5849CA0BC82}|ServiceBookingSystem.Tests\\ServiceBookingSystem.Tests.csproj|solutionrelative:servicebookingsystem.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CDB129-1CE4-43F6-8C9B-E5849CA0BC82}|ServiceBookingSystem.Tests\\ServiceBookingSystem.Tests.csproj|d:\\servicebookingsystem\\servicebookingsystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CDB129-1CE4-43F6-8C9B-E5849CA0BC82}|ServiceBookingSystem.Tests\\ServiceBookingSystem.Tests.csproj|solutionrelative:servicebookingsystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|d:\\servicebookingsystem\\servicebookingsystem.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|solutionrelative:servicebookingsystem.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|d:\\servicebookingsystem\\servicebookingsystem\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF04534A-D53E-FD2E-4081-5E4F2BFD7C25}|ServiceBookingSystem\\ServiceBookingSystem.csproj|solutionrelative:servicebookingsystem\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|d:\\servicebookingsystem\\servicebookingsystem.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|solutionrelative:servicebookingsystem.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\interfaces\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\interfaces\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\interfaces\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\interfaces\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|d:\\servicebookingsystem\\servicebookingsystem.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C61DB5-66DA-7BC8-8F2C-1EC056D82CFE}|Servicebookingsystem.services\\Servicebookingsystem.services.csproj|solutionrelative:servicebookingsystem.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|d:\\servicebookingsystem\\servicebookingsystem.infrastructure\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|solutionrelative:servicebookingsystem.infrastructure\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|d:\\servicebookingsystem\\servicebookingsystem.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|solutionrelative:servicebookingsystem.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|d:\\servicebookingsystem\\servicebookingsystem.infrastructure\\servicebookingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|solutionrelative:servicebookingsystem.infrastructure\\servicebookingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|d:\\servicebookingsystem\\servicebookingsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|solutionrelative:servicebookingsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|d:\\servicebookingsystem\\servicebookingsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1614CAE-E32B-9E31-218D-8A862FE6C27B}|Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj|solutionrelative:servicebookingsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|d:\\servicebookingsystem\\servicebookingsystem.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|solutionrelative:servicebookingsystem.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|d:\\servicebookingsystem\\servicebookingsystem.core\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|solutionrelative:servicebookingsystem.core\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|d:\\servicebookingsystem\\servicebookingsystem.core\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|solutionrelative:servicebookingsystem.core\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|d:\\servicebookingsystem\\servicebookingsystem.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|solutionrelative:servicebookingsystem.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|d:\\servicebookingsystem\\servicebookingsystem.core\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A569D85-CBF0-2F62-740C-12BFF7B4D7B0}|Servicebookingsystem.core\\Servicebookingsystem.core.csproj|solutionrelative:servicebookingsystem.core\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem.Tests\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem.Tests\\CustomerServiceTests.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem.Tests\\CustomerServiceTests.cs",
+              "RelativeToolTip": "ServiceBookingSystem.Tests\\CustomerServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T02:42:30.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentServiceTests.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem.Tests\\AppointmentServiceTests.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem.Tests\\AppointmentServiceTests.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem.Tests\\AppointmentServiceTests.cs",
+              "RelativeToolTip": "ServiceBookingSystem.Tests\\AppointmentServiceTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T02:40:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ServiceBookingSystem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T02:36:47.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Program.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Program.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:52:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:30:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.core\\Entities\\Customer.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Customer.cs",
+              "RelativeToolTip": "Servicebookingsystem.core\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:24:23.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Services\\AppointmentService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:07:16.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:08:19.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T09:35:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\appsettings.json",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\appsettings.json",
+              "RelativeToolTip": "ServiceBookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T08:27:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Services\\AuthService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\AuthService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T09:29:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:34:19.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:32:33.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\HealthController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:50:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAABQwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:33:29.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "ServiceBookingSystem\\Controllers\\AdminsController.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\ServiceBookingSystem\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "ServiceBookingSystem\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:35:08.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\StaffService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Services\\StaffService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\StaffService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Services\\StaffService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:08:53.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Services\\ServiceService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\ServiceService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Services\\ServiceService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:08:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Services\\AdminService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Services\\AdminService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:06:48.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.infrastructure\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Servicebookingsystem.infrastructure\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:32:21.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:06:30.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IStaffService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Interfaces\\IStaffService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IStaffService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Interfaces\\IStaffService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:05:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IServiceService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Interfaces\\IServiceService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IServiceService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Interfaces\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:06:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:05:18.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:00:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Class1.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.services\\Class1.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.services\\Class1.cs",
+              "RelativeToolTip": "Servicebookingsystem.services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:59:44.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\IRepository.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.infrastructure\\IRepository.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\IRepository.cs",
+              "RelativeToolTip": "Servicebookingsystem.infrastructure\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:47:06.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Servicebookingsystem.infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:46:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Servicebookingsystem.infrastructure.csproj",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj",
+              "RelativeDocumentMoniker": "Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj",
+              "RelativeToolTip": "Servicebookingsystem.infrastructure\\Servicebookingsystem.infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-22T07:32:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Servicebookingsystem.infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:31:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.infrastructure\\Class1.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.infrastructure\\Class1.cs",
+              "RelativeToolTip": "Servicebookingsystem.infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:28:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.core\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Servicebookingsystem.core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:26:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.core\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Servicebookingsystem.core\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:25:24.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.core\\Entities\\Service.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Service.cs",
+              "RelativeToolTip": "Servicebookingsystem.core\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:25:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.core\\Entities\\Admin.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Admin.cs",
+              "RelativeToolTip": "Servicebookingsystem.core\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:24:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Servicebookingsystem.core\\Entities\\Staff.cs",
+              "ToolTip": "D:\\ServiceBookingSystem\\Servicebookingsystem.core\\Entities\\Staff.cs",
+              "RelativeToolTip": "Servicebookingsystem.core\\Entities\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:24:37.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<h2>Customer Dashboard</h2>
+
+<h3>Customers</h3>
+<ul>
+  <!-- Use correct property names from backend -->
+  <li *ngFor="let c of customers">{{ c.name }} - {{ c.email }}</li>
+</ul>
+
+<h3>Appointments</h3>
+<ul>
+  <li *ngFor="let a of appointments">
+    Service: {{ a.serviceId }} | Staff: {{ a.staffId }} |
+    {{ a.startTime }} - {{ a.endTime }} |
+    CustomerId: {{ a.customerId }}
+  </li>
+</ul>

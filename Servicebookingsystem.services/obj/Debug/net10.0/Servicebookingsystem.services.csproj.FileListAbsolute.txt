@@ -1,0 +1,17 @@
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.services.deps.json
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.services.dll
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.services.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.core.dll
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.infrastructure.dll
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.core.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.services\bin\Debug\net10.0\Servicebookingsystem.infrastructure.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.csproj.AssemblyReference.cache
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.AssemblyInfoInputs.cache
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.AssemblyInfo.cs
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.csproj.CoreCompileInputs.cache
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Serviceb.5AFE8B5A.Up2Date
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.dll
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\refint\Servicebookingsystem.services.dll
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\Servicebookingsystem.services.pdb
+D:\ServiceBookingSystem\Servicebookingsystem.services\obj\Debug\net10.0\ref\Servicebookingsystem.services.dll

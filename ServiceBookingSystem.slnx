@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Servicebookingsystem.core/Servicebookingsystem.core.csproj" />
+  <Project Path="Servicebookingsystem.infrastructure/Servicebookingsystem.infrastructure.csproj" />
+  <Project Path="Servicebookingsystem.services/Servicebookingsystem.services.csproj" />
+  <Project Path="ServiceBookingSystem.Tests/ServiceBookingSystem.Tests.csproj" Id="39cdb129-1ce4-43f6-8c9b-e5849ca0bc82" />
+  <Project Path="ServiceBookingSystem/ServiceBookingSystem.csproj" />
+</Solution>

@@ -1,0 +1,13 @@
+<h2>Register</h2>
+<form (ngSubmit)="register()">
+  <label>Name:</label>
+  <input [(ngModel)]="customer.name" name="name" placeholder="Name" />
+
+  <label>Email:</label>
+  <input [(ngModel)]="customer.email" name="email" placeholder="Email" />
+
+  <label>Phone:</label>
+  <input [(ngModel)]="customer.phone" name="phone" placeholder="Phone" />
+
+  <button type="submit">Register</button>
+</form>

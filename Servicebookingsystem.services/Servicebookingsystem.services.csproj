@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Servicebookingsystem.core\Servicebookingsystem.core.csproj" />
+    <ProjectReference Include="..\Servicebookingsystem.infrastructure\Servicebookingsystem.infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
